@@ -1,5 +1,5 @@
 /*================================================================================================*/
-
+This Code was taken from for www.braemoor.co.uk credit card validation, all credit goes to them
 /*
 
 This routine checks the credit card number. The following checks are made:
